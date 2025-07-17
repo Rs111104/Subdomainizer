@@ -1,7 +1,5 @@
-[![Python 3.x](https://img.shields.io/badge/python-%3E3.5-yellow.svg)](https://www.python.org/) 
-[![Twitter](https://img.shields.io/badge/twitter-@neeraj_sonaniya-blue.svg)](https://twitter.com/neeraj_sonaniya)
 
-## Buy Me A [Coffee](https://www.buymeacoffee.com/neerajson)
+
 
 ## SubDomainizer
 
@@ -34,8 +32,6 @@ This secret key searching is in beta and later version might have increased accu
 ## Installation Steps
 
 1. Clone SubDomainzer from git:
-```
-git clone https://github.com/nsonaniya2010/SubDomainizer.git
 ```
 2. Change the directory:
 ```
@@ -141,8 +137,4 @@ In the latest version (2.0) following important features are added:
 2. Added where the secrets were found.
 
 ## License
-This tools is licensed under the MIT license. take a look at the [LICENSE](https://github.com/nsonaniya2010/SubDomainizer/blob/master/LICENSE) for information about it.
-
-## Want to Help?
-Want to help if you like features and tools? or Liked this tool?
-[Help Here](https://paypal.me/BugsByNeeraj)
+This tools is licensed under the MIT license.
